@@ -1,0 +1,6 @@
+{
+  "mongoSettings":{
+    "databaseName"	:"MovieDatabase",
+    "uri"	        :"mongodb://localhost:27017"
+  }
+}
